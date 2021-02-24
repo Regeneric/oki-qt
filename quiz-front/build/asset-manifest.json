@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f2ad3701.chunk.css",
+    "main.js": "/static/js/main.b7b52221.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "static/css/2.1b4fbf1f.chunk.css": "/static/css/2.1b4fbf1f.chunk.css",
+    "static/js/2.5569c383.chunk.js": "/static/js/2.5569c383.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.5ccc2bb2b870206473f7b3fe964e6f14.js": "/precache-manifest.5ccc2bb2b870206473f7b3fe964e6f14.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.5569c383.chunk.js.LICENSE.txt": "/static/js/2.5569c383.chunk.js.LICENSE.txt",
+    "static/media/active.png": "/static/media/active.70a30529.png",
+    "static/media/active_list.png": "/static/media/active_list.3fbab570.png",
+    "static/media/style.css": "/static/media/bg.41831fc1.jpg",
+    "static/media/coming-soon.png": "/static/media/coming-soon.8d0c74af.png",
+    "static/media/done.png": "/static/media/done.762d769c.png",
+    "static/media/itc-logo.png": "/static/media/itc-logo.ddb11daf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/css/2.1b4fbf1f.chunk.css",
+    "static/js/2.5569c383.chunk.js",
+    "static/css/main.f2ad3701.chunk.css",
+    "static/js/main.b7b52221.chunk.js"
+  ]
+}
